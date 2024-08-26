@@ -1,0 +1,20 @@
+.home-banner h2{
+    color:rgb(5, 191, 54);
+    text-transform: uppercase;
+    padding: 10px;
+    font-weight: bolder;
+}
+.card{
+    box-shadow: 0px 0px 0.2px 1px rgba(163, 166, 242, 0.4);
+}
+.card-body .card-title{
+    height: 5rem;
+    color:rgb(4, 35, 68);
+}
+.card-body .btn{
+    background-color: rgb(73, 93, 249);
+}
+.card-body .btn:hover{
+ background-color: white;
+ color:rgb(73, 93, 249)
+}
